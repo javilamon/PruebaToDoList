@@ -5,7 +5,14 @@ Welcome candidate to our technical skills assessment project.
 Carefully review the questions provided by your evaluator then try to solve them with this project and show us your best skills
 
 I wish you good luck
+-----------------------------------------
+Crud Created
+The following proyect has the following tools:
 
+-Vue and Laravel
+-Axios for promised-based HTTP client
+-css with vuetify    
+----------------------------------------------
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
